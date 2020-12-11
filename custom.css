@@ -1,0 +1,102 @@
+* {
+    background-color: #cff4ff;
+    color: #082f3b
+}
+
+body {
+    padding-top: 50px;
+    margin-bottom: 20px;
+}
+
+.navbar-brand {
+    padding: 2%;
+    color: #082f3b !important;
+}
+
+
+h1, h2, h3, .navbar-brand, .card-title {
+    font-family: 'Libre Baskerville';
+    font-size: 22px;
+    font-weight: bold;
+}
+
+h6, p, ul li, .navbar-item, .card-subtitle, .btn {
+    font-family: 'Source Sans Pro';
+    font-size: 22px;
+}
+
+.row, .digitalstrategyheader, .card-columns {
+    padding: 3%;
+}
+
+.card-columns {
+    padding-top: 10px;
+}
+
+.nav-link, .fa-twitter, .fa-linkedin-in, .fa-paper-plane, .card-title, .here  {
+    color: #082f3b !important;
+}
+
+.nav-link:hover, .fa-twitter:hover, .fa-linkedin-in:hover, .fa-paper-plane:hover, .here:hover  {
+    color: #005e79 !important;
+    text-decoration: none;
+}
+
+
+
+.resume, .journalist, .socialmediastrategist, .connect {
+    color: #082f3b;
+    text-decoration: underline;
+}
+
+.resume:hover, .connect:hover, a:hover {
+    color: #005e79;
+}
+
+.padding-right {
+    padding-right: 10%;
+    padding-top: 2%;
+}
+
+.center {
+    margin: 0 auto !important;
+}
+
+.reportingheader {
+    padding-top: 5%;
+    text-align: center;
+}
+
+.reportingheading, .bigheading {
+    color: #082f3b;
+    font-weight: bold;
+}
+
+.card {
+    border-color: #005e79;
+}
+
+.articlelink:hover {
+    text-decoration-color: #a7ebff;
+}
+
+.card-subtitle {
+    color: #282828 !important;
+    font-weight: bold;
+}
+
+.bigheading {
+    padding-top: 5%;
+    text-align: center;
+}
+
+.btn {
+    background-color: #005e79;
+    border-color: #a7ebff;
+}
+
+.btn:hover {
+    background-color: #a7ebff;
+    color: #005e79;
+    border-color: #082f3b;
+}
