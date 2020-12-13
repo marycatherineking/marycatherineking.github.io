@@ -96,7 +96,7 @@ h6, p, ul li, .navbar-item, .card-subtitle, .btn {
 }
 
 .btn:hover {
-    background-color: #cff4ff;
+    background-color: #cff4ff !important;
     color: #005e79;
     border-color: #082f3b;
 }
