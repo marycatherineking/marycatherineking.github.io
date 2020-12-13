@@ -92,11 +92,11 @@ h6, p, ul li, .navbar-item, .card-subtitle, .btn {
 
 .btn {
     background-color: #005e79;
-    border-color: #a7ebff;
+    border-color: #cff4ff;
 }
 
 .btn:hover {
-    background-color: #a7ebff;
+    background-color: #cff4ff;
     color: #005e79;
     border-color: #082f3b;
 }
